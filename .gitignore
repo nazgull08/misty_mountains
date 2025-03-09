@@ -26,6 +26,7 @@ pnpm-debug.log*
 **/Cargo.lock.bk 
 **/rustfmt.toml 
 
+**/pgsql-data/ 
 **/node_modules/ 
 **/dist/        
 **/.turbo/     
